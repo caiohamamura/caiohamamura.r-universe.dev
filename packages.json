@@ -38,5 +38,9 @@
         {
         "package": "rTLsDeep",
         "url": "https://github.com/carlos-alberto-silva/rTLsDeep"
+    },
+    {
+        "package": "gdalBindings",
+        "url": "https://github.com/caiohamamura/gdalBindings-R"
     }
 ]
