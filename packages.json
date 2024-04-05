@@ -19,6 +19,10 @@
         "package": "rGEDI",
         "url": "https://github.com/carlos-alberto-silva/rGEDI"
     },
+        {
+        "package": "rGEDIsimulator",
+        "url": "https://github.com/caiohamamura/rGEDIsimulator"
+    },
     {
         "package": "treetop",
         "url": "https://github.com/carlos-alberto-silva/weblidar-treetop"
