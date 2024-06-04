@@ -46,5 +46,9 @@
     {
         "package": "gdalBindings",
         "url": "https://github.com/caiohamamura/gdalBindings-R"
+    },
+    {
+        "package": "ICESat2VegR",
+        "url": "https://github.com/carlos-alberto-silva/ICESat2VegR"
     }
 ]
